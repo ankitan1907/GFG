@@ -1,3 +1,14 @@
+
+            ListNode second = cur.next;
+        while (cur != null && cur.next != null) {
+            ListNode npn = cur.next.next;
+
+        ListNode prev = dummy, cur = head;
+        ListNode dummy = new ListNode(0, head);
+    public ListNode swapPairs(ListNode head) {
+class Solution {
+            second.next = cur;
+            cur.next = npn;
             prev.next = second;
 
             prev = cur;
