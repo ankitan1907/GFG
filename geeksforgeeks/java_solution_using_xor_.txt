@@ -1,2 +1,0 @@
-        return total_sum - actual_sum
-
