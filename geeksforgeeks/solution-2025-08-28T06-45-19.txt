@@ -1,5 +1,0 @@
-// Source: https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&sortBy=submissions
-// Language: txt
-// Generated: 2025-08-28T06:45:19.291Z
-
-# code here
