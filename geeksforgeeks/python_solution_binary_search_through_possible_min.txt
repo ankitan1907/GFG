@@ -1,2 +1,0 @@
-class Solution {
-     public static int countStudent(int []arr,int pages){
