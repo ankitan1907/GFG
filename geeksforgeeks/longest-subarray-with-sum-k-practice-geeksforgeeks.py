@@ -1,3 +1,5 @@
+# User function Template for python3
+
 class Solution:
     def longestSubarray(self, arr, k):  
         dict1={0:-1}
@@ -9,3 +11,7 @@ class Solution:
             if sm not in dict1:
                 dict1[sm]=i
         return ans
+
+ 
+        # code here
+    
