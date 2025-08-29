@@ -40,7 +40,6 @@ class Solution {
         }
         if(st==-1)return "";
         return s.substring(st,st+len);
-        // code here
         
     }
 }
